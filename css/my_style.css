@@ -1,3 +1,33 @@
+
+
+
+p.cb1{
+    background-color: black;
+    color: blanchedalmond;
+    text-align: center;
+    font-size: 40px;
+
+}
+
+.cb2{
+    color: burlywood;
+}
+
+
+p{
+    text-indent: 20px;
+}
+
+body {
+    font-family: 'Noto Sans TC', sans-serif;
+    }
+    h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: 'Noto Sans TC', sans-serif;
+    }
+    p {
+        font-family: 'Noto Serif TC',sans-serif;
+    }
+
 .expedu_icon{
     color:papayawhip
 }
