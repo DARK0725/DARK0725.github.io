@@ -43,3 +43,24 @@ body {
 .expedu_icon:hover{
     color:pink
 }
+
+table.wentable{
+    width: 80%;
+    background-color: rosybrown;
+
+}
+table.wentable th{
+    text-align: center;
+    color: antiquewhite;
+    border: 1px solid peachpuff
+
+}
+table.wentable td{
+    text-align: center;
+    background-color: linen;
+    color: rgba(188, 143, 143, 0.7);
+    border: 1px solid peachpuff;
+    border-collapse: collapse;
+
+
+}
