@@ -73,3 +73,20 @@ table.wentable td{
 
 
 }
+.wenn{
+    background-color: lightcoral;
+    color: bisque;
+    border-radius: 5px;
+    margin: 5%;
+    box-sizing: border-box;
+    width:10% ;
+    overflow: scroll;
+    width: 20%;
+    height: 100px;
+}
+.my1{
+    color: dimgrey;
+    font-size: 1.25rem;
+    font-weight: 300;
+
+}
