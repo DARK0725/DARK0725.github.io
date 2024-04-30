@@ -1,6 +1,6 @@
 .bg-primary{
     background-color: pink !important;
-    background-image: url(../assets/img/c1a80fdc2c26a52bfef2337b950dd4f7.jpg);
+    background-image: url(../assets/img/32078b7d8306c66c907358e426ac2b4f.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -161,6 +161,7 @@ table.wentable td{
 .wen8{
     color: rgba(146, 111, 111, 0.568);
     text-align: center;
+    font-size: 17px;
 }
 .wen9{
     color:rosybrown;
@@ -171,4 +172,11 @@ table.wentable td{
 }
 .mt3{
     margin-top: 3rem;
+}
+.wd{
+    width: 50%;
+}
+.bgphoto{
+    color: antiquewhite;
+    background: url(assets/img/eceaf3c28499664186928a71b03f8c32.jpg) repeat  ;
 }
