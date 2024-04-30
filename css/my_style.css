@@ -95,7 +95,7 @@ table.wentable td{
     --bs-card-group-margin: 0.75rem;
     position: relative;
     display:flex;
-    flex-direction: column;
+    flex-flow: column;
     min-width: 0;
     height: var(--bs-card-height);
     word-wrap: break-word;
@@ -103,6 +103,10 @@ table.wentable td{
     background-clip: border-box;
     border: var(--bs-card-border-width) solid var(--bs-card-border-color);
     border-radius: var(--bs-card-border-radius);
+}
+
+.wencar {
+    flex-flow: row;
 }
 
 
@@ -157,4 +161,10 @@ table.wentable td{
 .wen8{
     color: rgba(146, 111, 111, 0.568);
     text-align: center;
+}
+.mr2{
+    margin-right: 2rem; 
+}
+.mt3{
+    margin-top: 3rem;
 }
