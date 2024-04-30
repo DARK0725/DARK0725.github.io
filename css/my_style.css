@@ -162,6 +162,10 @@ table.wentable td{
     color: rgba(146, 111, 111, 0.568);
     text-align: center;
 }
+.wen9{
+    color:rosybrown;
+    background-color:bisque;
+}
 .mr2{
     margin-right: 2rem; 
 }
