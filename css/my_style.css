@@ -48,7 +48,7 @@ body {
     }
 
 .expedu_icon{
-    color:papayawhip
+    color:rosybrown
 }
 
 .expedu_icon:hover{
@@ -163,9 +163,17 @@ table.wentable td{
     text-align: center;
     font-size: 17px;
 }
+.wen8:hover{
+    color: lightpink;
+}
 .wen9{
     color:rosybrown;
     background-color:bisque;
+}
+.wen10{
+    color: lightcoral;
+    text-align: left;
+    
 }
 .mr2{
     margin-right: 2rem; 
