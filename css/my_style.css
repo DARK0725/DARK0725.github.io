@@ -156,10 +156,10 @@ table.wentable td{
     background-color: bisque;
 }
 .wen6{
-    color: rgba(146, 111, 111, 0.568);
+    color: rgba(90, 60, 60, 0.568);
 }
 .wen8{
-    color: rgba(146, 111, 111, 0.568);
+    color: rgba(155, 116, 116, 0.568);
     text-align: center;
     font-size: 17px;
 }
@@ -187,4 +187,8 @@ table.wentable td{
 .bgphoto{
     color: antiquewhite;
     background: url(assets/img/eceaf3c28499664186928a71b03f8c32.jpg) repeat  ;
+}
+.wen7{
+    width: 75%;
+    margin: 20px;
 }
